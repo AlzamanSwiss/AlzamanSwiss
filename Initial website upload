@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swiss Luxury Gulf</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f8f8f8; }
+        header { background-color: #1a1a1a; color: white; padding: 20px; text-align: center; font-size: 24px; }
+        .container { max-width: 900px; margin: 20px auto; padding: 20px; background: white; border-radius: 8px; }
+        .section { margin-bottom: 30px; }
+        .button { background: #d4af37; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; }
+        footer { text-align: center; padding: 20px; background: #1a1a1a; color: white; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>Swiss Luxury Gulf</header>
+    <div class="container">
+        <div class="section">
+            <h2>Exclusive Swiss Watches for the Gulf Market</h2>
+            <p>We connect luxury watch suppliers from Switzerland with premium buyers in the Gulf region.</p>
+        </div>
+        <div class="section">
+            <h3>Partner with Us</h3>
+            <p>Are you a Swiss watch supplier or a Gulf-based marketer? Join our exclusive affiliate program and earn commissions on luxury sales.</p>
+            <a href="#contact" class="button">Join Now</a>
+        </div>
+        <div class="section">
+            <h3>Our Collection</h3>
+            <p>Browse our curated selection of the finest Swiss timepieces.</p>
+        </div>
+        <div id="contact" class="section">
+            <h3>Contact Us</h3>
+            <p>Email: info@swissluxurygulf.com</p>
+            <p>WhatsApp: +971-XXX-XXXX</p>
+        </div>
+    </div>
+    <footer>
+        &copy; 2025 Swiss Luxury Gulf. All rights reserved.
+    </footer>
+</body>
+</html>
